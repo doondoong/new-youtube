@@ -19,7 +19,7 @@
     flex-direction: column;
   }
   .list {
-  width: 50%;
+    flex: 1 1 100%;
   }
 }
 
